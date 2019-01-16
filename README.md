@@ -1,2 +1,2 @@
 # oroblanco
-Yet to start python wrapper for automation testing
+Javascript supporting libraries and tool scripts
